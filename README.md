@@ -33,4 +33,4 @@ Aplikasi fullstack menggunakan Express JS sebagai backend dan React JS sebagai f
 Clone repository:
 
 ```bash
-git clone https://github.com/USERNAME/NAMA-REPO.git
+git clone https://github.com/hasanbashori99/security-get.git
